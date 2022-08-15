@@ -17,7 +17,7 @@ Please keep note of this as in the Included EFI there is no Serial Number, MLB, 
 You'll need to read this, as you may experience the same problems as I did when researching and building this configuration.
 
 ## Stock NVMe SSD
-This laptop (at least for me) came with a Micron 2200 NVMe SSD, **Which is incompatile with macOS.** If you attempt to boot the installer with this Drive **It will Pernel Panic**
+This laptop (at least for me) came with a Micron 2200 NVMe SSD, **Which is incompatile with macOS.** If you attempt to boot the installer with this Drive **It will Kernel Panic**
 
 ## HDMI Output
 Ice Lake Laptops seem to have a problem with HDMI Connectivity not working, this means that you will not have the HDMI Port to use for external output. This is because of something in regards to Apple removing the HDMI Stack for Ice Lake. 
