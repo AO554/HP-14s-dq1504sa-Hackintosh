@@ -3,7 +3,7 @@ My (from scratch) Configuration using OpenCore for this specific HP 14s Model.
 
 ![HPMonterey](https://i.imgur.com/OXAmeR2.png)
 
-# Inital Information
+# Initial Information
 
 This configuration is for the Ice Lake HP 14s Model Specified (14s-dq1504sa)
 The EFI is built upon OpenCore, and took from begining to end 10 Months to complete.
