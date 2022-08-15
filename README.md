@@ -1,7 +1,7 @@
 # HP 14s (dq1504sa) Hackintosh Configuration
 My (from scratch) Configuration using OpenCore for this specific HP 14s Model.
 
-![HPMonterey](https://i.imgur.com/QXAmeR2.png)
+![HPMonterey](https://i.imgur.com/OXAmeR2.png)
 
 # Inital Information
 
