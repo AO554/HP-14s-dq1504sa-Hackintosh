@@ -1,7 +1,7 @@
 # HP 14s (dq1504sa) Hackintosh Configuration
 My (from scratch) Configuration using OpenCore for this specific HP 14s Model.
-** I no longer own the Laptop, thus this is being archived.**
 
+** I no longer own the Laptop, thus this is being archived.**
 **(However you can get Ventura to boot by Updating the Kexts)**
 
 ![HPMonterey](https://i.imgur.com/OXAmeR2.png)
